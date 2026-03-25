@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    background: #065F46;
+    margin-top: 40px
+}
+
+h3 {
+    color: #EEE;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 0px;
+    line-height: 35.893px;
+    /* 89.732% */
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #EEE;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 35.893px;
+    /* 89.732% */
+}
+
+#black-con {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 155px;
+    height: 120px;
+    background-color: black;
+    color: #A7F3D0;
+    text-align: center;
+    font-family: "Cursed Timer ULiL";
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.666px;
+    border-radius: 5px;
+    /* 140.74% */
+}
+
+
+
+.small-con {
+    width: 45px;
+    background-color: #065F46;
+    border-radius: 5px;
+    border: 2px solid #A7F3D0;
+    color: #ffffff;
+    display: flex;
+    padding: 5PX 2px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: "Cursed Timer ULiL";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27.812px;
+    /* 154.509% */
+}
+
+#small-wrap {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 155px;
+    height: 45px;
+    gap: 10px;
+
+}
+
+.container-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+
+
+
+#black-con2 {
+    width: 155px;
+    height: 120px;
+    background-color: black;
+    color: #A7F3D0;
+    ;
+    text-align: center;
+    font-family: "Cursed Timer ULiL";
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 126.666px;
+    border-radius: 5px;
+    /* 140.74% */
+
+}
+
+#small-wrap2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 155px;
+    height: 45px;
+    gap: 10px;
+}
+
+#versus {
+    color: #EEE;
+    text-align: center;
+    font-family: unbounded;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 700;
+    margin: 0px;
+    line-height: 35.893px;
+    /* 89.732% */
+}
